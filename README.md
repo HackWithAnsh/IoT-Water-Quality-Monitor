@@ -1,5 +1,5 @@
 # IoT-Water-Quality-Monitor
-
+block_diagram.png
 # IoT Water Quality Monitor
 
 An IoT-based water quality monitoring system using ESP32 and a turbidity sensor to monitor water clarity in real time.
